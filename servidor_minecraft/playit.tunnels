@@ -6,7 +6,7 @@
   },
   "tunnels": [
     {
-      "active": true,
+      "active": false,
       "alloc": {
         "data": {
           "assigned_domain": "sports-drives.gl.joinmc.link",
